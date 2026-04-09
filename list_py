@@ -1,0 +1,4 @@
+student=["aman" ,"satvik"]
+for name in student:
+    print(name)
+#tuple is immutable and list is mutable
